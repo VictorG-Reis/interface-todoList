@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-const URL = 'http://localhost:8000';
+const URL = 'https://todolist-4usd.onrender.com';
 
 export type Todo = {
     id: number,
